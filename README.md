@@ -7,7 +7,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Suvojit Sengupta**, a passionate software developer from India.  
+Hi, I'm **Suvojit Sengupta**, a 👨‍🏫 Educator & 💻 Developer | PGT Computer Science teacher @ Techno India Group | 🎓 MCA  | 🔹 Ex-NIC WebDev Intern | 🌐 Freelance Web & App Developer.  
 I love building projects with **Java, Python, Laravel, React**, and exploring **AI/ML, OCR, and NLP** applications.
 
 ---
