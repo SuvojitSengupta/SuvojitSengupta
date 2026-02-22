@@ -81,8 +81,8 @@ I love building projects with **Java, Python, Laravel, React**, and exploring **
 <br>
 
 <p align="center" >
-    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=SuvojitSengupta&show_icons=true&locale=en&layout=compact&theme=radical" alt="SuvojitSengupta" /></p>
-    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SuvojitSengupta&theme=gruvbox&row=2&column=3" alt="SuvojitSengupta" /> </p>
+    <!-- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=SuvojitSengupta&show_icons=true&locale=en&layout=compact&theme=radical" alt="SuvojitSengupta" /></p>
+    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=SuvojitSengupta&theme=gruvbox&row=2&column=3" alt="SuvojitSengupta" /> </p> -->
     
   [![An image of @kingssg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kingssg)](https://holopin.io/@kingssg)
 
