@@ -15,7 +15,7 @@ I love building projects with **Java, Python, Laravel, React**, and exploring **
     <h2 align="left"></h3>
       <img align="right" alt="coding" width="350" height="450" src="https://github.com/kingSSG/Convert-Number-To-Words-/assets/66203670/8dc57db4-04f1-48b2-9fae-d129c35a6add">  
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h3 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suvojit-sengupta-82115820a/" target="_blank">
@@ -29,7 +29,7 @@ I love building projects with **Java, Python, Laravel, React**, and exploring **
   </a>
 </p>
 
-<h2 align="left">💻 Languages I’ve Worked With:</h3>
+<h3 align="left">💻 Languages I’ve Worked With:</h3>
 
 <p align="left" class="p">
 <p align="left">
